@@ -24,7 +24,7 @@ An enterprise-grade house price prediction platform powered by Data Analytics (C
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repository-url>
+git clone github.com/darktheunk/house-price-prediction
 cd House_Price_Prediction
 ```
 
